@@ -17,5 +17,8 @@
     "@vitejs/plugin-vue": "^5.2.1",
     "vite": "^6.0.1",
     "vite-plugin-vue-devtools": "^7.6.5"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-musl": "4.28.1"
   }
 }
